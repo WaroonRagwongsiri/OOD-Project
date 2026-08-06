@@ -1,0 +1,13 @@
+Enter the entire maze in one line. Use '.' for open cells, '#' for walls, 'S' for start, and 'E' for end.
+Separate each row with a comma (,).
+Enter the maze: S#.#,....,#.##,#..E
+Your maze:
+S#.#
+....
+#.##
+#..E
+Solution found:
+S#.#
+**..
+#*##
+#**E
